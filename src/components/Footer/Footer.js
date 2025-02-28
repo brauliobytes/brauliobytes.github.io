@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className='footer'>
       <a href='#home' className='link footer__link'>
-        brauliotech @ 2024
+        superbraulio @ 2025
       </a>
     </footer>
   )

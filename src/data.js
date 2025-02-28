@@ -1,17 +1,16 @@
 const header = {
   homepage: '#',
-  title: 'ba',
+  title: 'Super',
 }
 
 const about = {
   name: 'Braulio',
-  role: 'Backend Engineer | Golang | Node',
-  description:
-    'Passionate backend developer with over 10 years of experience building robust solutions using Golang and Node.js. Extensive experience in creating and implementing Microservices, RESTful APIs and AWS deployments. Skilled in collaborating closely with multidisciplinary teams in agile environments to deliver high-quality software solutions.',
+  role: 'Sr. Software Engineer',
+  description: "A passionate software developer focused on backend development. I enjoy collaborating in teams to create innovative technological solutions that drive business success and enhance user experience. I've had the privilege of working with multidisciplinary teams in the creation of backend systems using Golang, Node.js, and Python.",
   resume: 'cv.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/brauliodev',
-    github: 'https://github.com/braulioaguilardev',
+    github: 'https://github.com/braulioaguilar',
   },
 }
 
@@ -20,29 +19,29 @@ const roles = [
   {
     name: 'Back-End',
     description: '',
-    stack: ['Golang', 'Gin', 'Node.js', 'Nest.js', 'AWS Lambda', 'API REST', 'GraphQL', 'Microservice']
+    stack: ['Golang', 'Node.js', 'Testing', 'Hexagonal Architecture']
   },
   {
     name: 'Front-End',
     description: '',
-    stack: ['Vue.js', 'Rect.js', 'JavaScript', 'Tailwind CSS', 'Hugo', 'HTML/CSS', 'Angular (legacy)']
+    stack: ['Vue.js', 'Rect.js', 'JavaScript', 'Hugo']
   },
   {
     name: 'DevOps',
     description: '',
-    stack: ['Docker', 'AWS', 'Git', 'SonarCloud', 'Terraform', 'GitHub Actions', 'Pipelines']
+    stack: ['Docker', 'AWS', 'Git', 'Terraform']
   },
   {
     name: 'Database',
-    stack: ['PostgreSQL', 'MySQL', 'MariaDB', 'SQLite', 'MongoDB']
+    stack: ['PostgreSQL', 'MySQL', 'MongoDB']
   },
   {
     name: 'Frameworks',
-    stack: ['Gin', 'Echo', 'Fiber', 'Expres.js', 'Nest.js', 'Laravel', 'Symfony', 'Flask']
+    stack: ['Gin', 'Echo', 'Fiber', 'Nest.js', 'Flask']
   },
   {
     name: 'Languajes',
-    stack: ['Go', 'Node', 'Python (basic)', 'PHP', 'Rust (basic)']
+    stack: ['Go', 'Node', 'Python', 'Rust (basic)']
   }
 ]
 

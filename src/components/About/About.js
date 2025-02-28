@@ -41,11 +41,6 @@ export default function About() {
             )}
           </>
         )}
-        {
-          resume && (
-            <a className='btn' href={resume}>Download CV</a>
-          )
-        }
       </div>
     </div>
   )
