@@ -10,7 +10,7 @@ const about = {
   resume: 'cv.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/brauliodev',
-    github: 'https://github.com/braulioaguilar',
+    github: 'https://github.com/brauliocode',
   },
 }
 
@@ -47,7 +47,7 @@ const roles = [
 
 const contact = {
   email: 'brauliodev@mail.com',
-  phone: 'https://wa.me/+525536678077?text=Hello'
+  phone: 'https://wa.me/+525536678077?text=Hola'
 }
 
 export { header, about, roles, contact }
